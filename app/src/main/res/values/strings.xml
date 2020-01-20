@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Студент ЧДТУ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Аккаунт</string>
+    <string name="menu_gallery">Налаштування</string>
+    <string name="menu_slideshow">Зв\'язок</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="Surname">Прізвище</string>
+    <string name="group">Група</string>
+    <string name="Name">Ім\'я</string>
+    <string name="name">Ім\'я</string>
+    <string name="groupe">Група</string>
+    <string name="srn">Прізвище</string>
+    <string name="nm">Ім\'я</string>
+</resources>
