@@ -4,5 +4,6 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="bdced8">#BDCED8</color>
-    <color name="app_bar">#36A4E2</color>
+    <color name="app_bar">#6DB7E2</color>
+    <color name="app_bar2">#30A1E3</color>
 </resources>
